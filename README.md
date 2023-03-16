@@ -1,2 +1,5 @@
-# comp229MidTerm.github.io
-Web Development mid term exam in which we have to create a website and perform some routing.
+# COMP229-F2019-MidTerm Test
+
+## Welcome to the MidTerm Project - the Favourite Book List App
+
+please use **`npm install`** to install project dependencies
